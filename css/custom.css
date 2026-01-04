@@ -1,0 +1,22 @@
+/* 🔥 HARD FIX: Kill oversized SVG injected by PaperMod */
+svg {
+  max-width: 24px !important;
+  max-height: 24px !important;
+}
+
+/* Fix social icons specifically */
+.social-icons svg {
+  width: 18px !important;
+  height: 18px !important;
+}
+
+/* Stop scaling from text */
+.social-icons a {
+  font-size: 0 !important;
+}
+
+/* Hide the huge GitHub background SVG completely */
+.post-content > svg,
+main > svg {
+  display: none !important;
+}
