@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disha Sharma</title>
     <link>https://imdisha.github.io/</link>
     <description>Recent content on Disha Sharma</description>
-    <generator>Hugo -- 0.154.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://imdisha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,24 +12,14 @@
       <link>https://imdisha.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://imdisha.github.io/projects/</guid>
-      <description>&lt;h3 id=&#34;django-blog-platform&#34;&gt;Django Blog Platform&lt;/h3&gt;
-&lt;p&gt;A clean blog application built with Django featuring authentication, CRUD operations, and structured templates.&lt;br&gt;
-&lt;strong&gt;Tech:&lt;/strong&gt; Python, Django, SQLite&lt;br&gt;
-&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/DS92428&#34;&gt;https://github.com/DS92428&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;automation-scripts&#34;&gt;Automation Scripts&lt;/h3&gt;
-&lt;p&gt;Python-based automation scripts using Selenium and JSON configuration to simplify repetitive workflows.&lt;br&gt;
-&lt;strong&gt;Tech:&lt;/strong&gt; Python, Selenium, JSON&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;django-blog-platform&#34;&gt;Django Blog Platform&lt;/h3&gt;&#xA;&lt;p&gt;A clean blog application built with Django featuring authentication, CRUD operations, and structured templates.&lt;br&gt;&#xA;&lt;strong&gt;Tech:&lt;/strong&gt; Python, Django, SQLite&lt;br&gt;&#xA;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/DS92428&#34;&gt;https://github.com/DS92428&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;automation-scripts&#34;&gt;Automation Scripts&lt;/h3&gt;&#xA;&lt;p&gt;Python-based automation scripts using Selenium and JSON configuration to simplify repetitive workflows.&lt;br&gt;&#xA;&lt;strong&gt;Tech:&lt;/strong&gt; Python, Selenium, JSON&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skills</title>
       <link>https://imdisha.github.io/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://imdisha.github.io/skills/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, SQL&lt;br&gt;
-&lt;strong&gt;Frameworks:&lt;/strong&gt; Django&lt;br&gt;
-&lt;strong&gt;Automation:&lt;/strong&gt; Selenium, scripting&lt;br&gt;
-&lt;strong&gt;Tools:&lt;/strong&gt; Git, GitHub, VS Code&lt;br&gt;
-&lt;strong&gt;Concepts:&lt;/strong&gt; REST APIs, JSON, File I/O&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, SQL&lt;br&gt;&#xA;&lt;strong&gt;Frameworks:&lt;/strong&gt; Django&lt;br&gt;&#xA;&lt;strong&gt;Automation:&lt;/strong&gt; Selenium, scripting&lt;br&gt;&#xA;&lt;strong&gt;Tools:&lt;/strong&gt; Git, GitHub, VS Code&lt;br&gt;&#xA;&lt;strong&gt;Concepts:&lt;/strong&gt; REST APIs, JSON, File I/O&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
